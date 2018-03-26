@@ -15,8 +15,8 @@ Isinya :
 - Unfollow Not Followback
 
 Cara Install : 
-- git clone https://github.com/katonsa/igeh.git
-- cd igeh
+- git clone https://github.com/beenatural/igv2.git
+- cd igv2
 - npm install or yarn install
 
 How To Run :
